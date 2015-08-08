@@ -1,0 +1,4 @@
+*.mo
+*.pyc
+*.log
+docs/doxygen/out/
